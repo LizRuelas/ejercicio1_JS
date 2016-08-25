@@ -1,5 +1,4 @@
-# ejercicio1_JS
-
+# EJERCICIO 1
 En el siguiente flujograma se puede ver el pseudocódigo  del ejercicio 1:
   
 ###Flujograma
